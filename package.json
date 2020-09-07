@@ -1,0 +1,24 @@
+{
+  "name": "mad-eye-foodie",
+  "version": "1.0.0",
+  "description": "food redistrubution website ",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm start lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinwilson1224/Mad-Eye-Foodie.git"
+  },
+  "author": "Austin Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinwilson1224/Mad-Eye-Foodie/issues"
+  },
+  "homepage": "https://github.com/austinwilson1224/Mad-Eye-Foodie#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
