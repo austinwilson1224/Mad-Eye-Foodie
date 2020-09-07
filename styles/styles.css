@@ -1,0 +1,37 @@
+/* 
+    color ideas 
+
+    dark blue grey: 5B618A
+
+    purple navy: 5B507A
+
+    wild blue yonder: 9EADC8
+
+    yellow green crayola: B9E28C
+
+    maximum green yellow: D6D84F
+
+
+
+*/
+
+
+
+
+
+
+
+.jumbotron {
+    margin: 0;
+    background-color: #5B618A;
+    border-radius: 0;
+}
+
+.navbar {
+    background-color: lightblue;
+
+}
+
+.nav-link {
+    color: #5B618A;
+}
