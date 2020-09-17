@@ -27,11 +27,20 @@
     border-radius: 0;
 }
 
+.jumbotron h1 {
+    text-align: center;
+    color: lightslategray
+}
+
 .navbar {
     background-color: lightblue;
 
 }
 
-.nav-link {
+/* .nav-link {
     color: #5B618A;
+} */
+
+a {
+    text-decoration: none;
 }
